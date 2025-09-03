@@ -3,7 +3,7 @@
 ---
 
 ## 👤 About Me  
-![image alt][My Photo](https://github.com/jeanclaude240345/ASJSDG/blob/bd717d962092086dbed6e335c17fbd511bee89cf/LIBWRONG.png) 
+![My Photo](https://github.com/jeanclaude240345/ASJSDG/blob/bd717d962092086dbed6e335c17fbd511bee89cf/LIBWRONG.png) 
 
 Hi! I'm Jean Claude Macalino, a student who procastinates. I enjoy scrolling through all the socials such as Twitter & Facebook.
 I live my life on a day-to-day basis without knowing what's next
