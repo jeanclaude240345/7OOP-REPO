@@ -24,9 +24,8 @@ I live my life on a day-to-day basis without knowing what's next.
 ---
 
 ## 🔗 My Projects  
-- [(https://github.com/jeanclaude240345/ASJSDG/edit/main/README.md)](https://github.com/jeanclaude240345/7OOP-REPO/edit/main/README.md)
+- (https://github.com/jeanclaude240345/7OOP-REPO/edit/main/README.md)
 ---
-
 ## 🎉 Fun Facts About Me  
 - I sleep better on my tummy 
 - I've been a huge Batman fan since September 1, 2025 
