@@ -42,4 +42,4 @@ I live my life on a day-to-day basis without knowing what's next.
 
 ---
 
-✨ Thanks for stopping by! Keep sleighing awesome 💜
+✨ Thanks for stopping by! Keep sleighing 💜
