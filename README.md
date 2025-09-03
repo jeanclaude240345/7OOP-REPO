@@ -24,7 +24,7 @@ I live my life on a day-to-day basis without knowing what's next.
 ---
 
 ## 🔗 My Projects  
-- (https://github.com/jeanclaude240345/ASJSDG/edit/main/README.md)
+- [(https://github.com/jeanclaude240345/ASJSDG/edit/main/README.md)](https://github.com/jeanclaude240345/7OOP-REPO/edit/main/README.md)
 ---
 
 ## 🎉 Fun Facts About Me  
