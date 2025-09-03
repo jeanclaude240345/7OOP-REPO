@@ -1,4 +1,4 @@
-# 💜 Hey, I'm Your Name!  
+# 💜 Hey, I'm Jean Claude(szon-clawed)!  
 
 ---
 
@@ -36,10 +36,10 @@ I live my life on a day-to-day basis without knowing what's next
 
 ## 📬 Connect With Me  
 - [Facebook] (https://www.facebook.com/szansnowwhite) 
-- [LinkedIn] (https://www.instagram.com/szonstagram/) 
+- [Instagram] (https://www.instagram.com/szonstagram/) 
 - [Email](jmacalino24-0345@cca.edu.ph) 
 - [GitHub](https://github.com/yourhandle)  
 
 ---
 
-✨ Thanks for stopping by! Keep coding awesome stuff 💜
+✨ Thanks for stopping by! Keep sleighing awesome 💜
