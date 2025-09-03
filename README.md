@@ -8,7 +8,7 @@
 
 ![My Picture](https://your-profile-picture-link.com/profile.jpg)
 
-Hi there! I'm **[Your Full Name]**, a passionate developer and technology enthusiast. I love exploring new tools, building exciting projects, and continuously learning to improve my craft. I’m driven by curiosity and a desire to make meaningful contributions through code.
+Hi there! I'm Jean Claude Macalino, a passionate developer and technology enthusiast. I love exploring new tools, building exciting projects, and continuously learning to improve my craft. I’m driven by curiosity and a desire to make meaningful contributions through code.
 
 ---
 
@@ -57,7 +57,7 @@ Here are a few of the projects I’ve worked on:
 
 Feel free to reach out or connect with me:
 
-- 📘 [Facebook](https://facebook.com/yourprofile)
+- 📘 [Facebook](https://facebook.com/szansnowwhite)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🐦 [Twitter/X](https://twitter.com/yourhandle)
 - 📷 [Instagram](https://instagram.com/yourhandle)
