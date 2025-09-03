@@ -57,7 +57,7 @@ Here are a few of the projects I’ve worked on:
 
 Feel free to reach out or connect with me:
 
-- 📘 [Facebook](https://facebook.com/szansnowwhite)
+- 📘 [Facebook][(https://facebook.com/szansnowwhite)](https://www.facebook.com/szansnowwhite)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🐦 [Twitter/X](https://twitter.com/yourhandle)
 - 📷 [Instagram](https://instagram.com/yourhandle)
