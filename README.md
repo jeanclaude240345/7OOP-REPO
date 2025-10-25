@@ -24,11 +24,13 @@ I live my life on a day-to-day basis without knowing what's next.
 ---
 
 ## 🔧 My Projects 
-- [Project 1] [Midterm Lab Task Set 1: Getting Started with Python](https://docs.google.com/document/d/1BBTYMPKdHdNkrJSSHSk6q0DhzSI0jNYE1tHkV20ylU8/edit?tab=t.0)  
-- [Lab Task 1](projects/Lab_Task1.pdf)
-- <p><a href="projects/Lab_Task1.pdf" target="_blank">Lab Task 1</a></p>
-- <p><a href="projects/Lab_Task2.pdf" target="_blank">Lab Task 2</a></p>
--[🔗 Project 1](projects/Lab_Task1.pdf) – Midterm Lab Task 1 Getting started with Python
+- [🔗 Project 1](projects/Lab_Task1.pdf) – Midterm Lab Task 1: Getting started with Python
+- [🔗 Project 2](projects/Lab_Task2.pdf) – Midterm Lab Task 2: Loop Construct
+- [🔗 Project 3](projects/Lab_Task3.pdf) – Midterm Lab Task 3: Using List Collections
+- [🔗 Project 4](projects/Lab_Task4.pdf) – Midterm Lab Task 4: Using Dictionary Collections
+- [🔗 Project 5](projects/Lab_Task5.pdf) – Midterm Lab Task 5: Creating and Instantiating Classes
+- [🔗 Project 6](projects/Lab_Task6.pdf) – Midterm Lab Task 6: Overloaded Constructors
+- 
 
 ---
 
