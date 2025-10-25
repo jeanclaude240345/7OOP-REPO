@@ -3,7 +3,8 @@
 ---
 
 ## 👤 About Me  
-![image alt](https://github.com/jeanclaude240345/7OOP-REPO/blob/97343fbedfae60aed60b428349172fa8bc413bdd/ako.jpg)
+![My Photo](https://raw.githubusercontent.com/jeanclaude240345/7OOP-REPO/main/ako.jpg)
+
 
 
 
