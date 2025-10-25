@@ -25,7 +25,7 @@ I live my life on a day-to-day basis without knowing what's next.
 
 ## 🔧 My Projects 
 - [Project 1] [Midterm Lab Task Set 1: Getting Started with Python](https://docs.google.com/document/d/1BBTYMPKdHdNkrJSSHSk6q0DhzSI0jNYE1tHkV20ylU8/edit?tab=t.0)  
-
+- Midterm Lab Task 2: Loop Construct
 
 ---
 
