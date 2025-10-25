@@ -3,7 +3,7 @@
 ---
 
 ## 👤 About Me  
-<img src="/images/ako.jpg" alt="My Photo" width="200" style="border-radius: 10px;">
+<img src="images/ako.jpg" alt="My Photo" width="200">
 
 Hi! I'm Jean Claude Macalino, a student who procrastinates. I enjoy scrolling through socials like Twitter (will never call it X) & Facebook.  
 I live my life on a day-to-day basis without knowing what's next.
