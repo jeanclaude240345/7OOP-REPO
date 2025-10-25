@@ -43,9 +43,17 @@ I live my life on a day-to-day basis without knowing what's next.
 ---
 
 ## 📬 Connect With Me  
-- [Facebook](https://www.facebook.com/szansnowwhite)  
-- [Instagram](https://www.instagram.com/szonstagram/)  
-- [Twitter](https://x.com/mrszansnowwhite)  
+<p align="left">
+  <a href="https://www.facebook.com/szansnowwhite" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/szonstagram/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/mrszansnowwhite" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitterx.png" alt="Twitter"/>
+  </a>
+</p>
 
 ---
 
