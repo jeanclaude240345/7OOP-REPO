@@ -28,7 +28,7 @@ I live my life on a day-to-day basis without knowing what's next.
 - [Lab Task 1](projects/Lab_Task1.pdf)
 - <p><a href="projects/Lab_Task1.pdf" target="_blank">Lab Task 1</a></p>
 - <p><a href="projects/Lab_Task2.pdf" target="_blank">Lab Task 2</a></p>
-- <p><a href="projects/PT1.pdf" target="_blank">Performance Task</a></p>
+-[🔗 Project 1](projects/Lab_Task1.pdf) – Midterm Lab Task 1 Getting started with Python
 
 ---
 
