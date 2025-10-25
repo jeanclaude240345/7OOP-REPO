@@ -1,4 +1,4 @@
-# 💜 Hey, I'm Jean Claude(szon-clawed)!  
+# Hey, I'm Jean Claude(szon-clawed)!  
 
 ---
 
