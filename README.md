@@ -3,47 +3,43 @@
 ---
 
 ## 👤 About Me  
-![My Photo](https://raw.githubusercontent.com/jeanclaude240345/7OOP-REPO/main/ako.jpg)
+![My Photo](images/ako.jpg)
 
-
-
-
-Hi! I'm Jean Claude Macalino, a student who procastinates. I enjoy scrolling through all the socials such as Twitter (will never call it X) & Facebook.
+Hi! I'm Jean Claude Macalino, a student who procrastinates. I enjoy scrolling through socials like Twitter (will never call it X) & Facebook.  
 I live my life on a day-to-day basis without knowing what's next.
 
 ---
 
 ## 🔮 Areas of Interest  
 - Music is my go-to ✨  
-- Whole day talks with my partner 🌙
-- Enjoying films and doing marathons (ie. The Batman trilogy, Before trilogy)🍿  
+- Whole day talks with my partner 🌙  
+- Enjoying films and doing marathons (ie. The Batman trilogy, Before trilogy) 🍿  
 
 ---
 
-## 💻 Languages I Speak (Coding ones)  
-- C++
+## 💻 Languages I Speak (Coding)  
+- C++  
 - Python (just the basics, still learning 🐍)  
 
 ---
 
 ## 🔧 My Projects 
-- (https://github.com/jeanclaude240345/7OOP-REPO/edit/main/README.md)
--  [Project 1 — Midterm Lab Task Set 1: Getting Started with Python](https://docs.google.com/document/d/1BBTYMPKdHdNkrJSSHSk6q0DhzSI0jNYE1tHkV20ylU8/edit?tab=t.0)
--  [Macalino_OOP.pdf](https://github.com/user-attachments/files/23140395/Macalino_OOP.pdf)
+- [Project 1 — Midterm Lab Task Set 1: Getting Started with Python](https://docs.google.com/document/d/1BBTYMPKdHdNkrJSSHSk6q0DhzSI0jNYE1tHkV20ylU8/edit?tab=t.0)  
+- [Macalino_OOP.pdf](https://github.com/user-attachments/files/23140395/Macalino_OOP.pdf)  
 
 ---
+
 ## 🎉 Fun Facts About Me  
-- I sleep better on my tummy 
-- I've been a huge Batman fan since September 1, 2025 
-- Dark mode help with my eyes 
+- I sleep better on my tummy  
+- I've been a huge Batman fan since September 1, 2025  
+- Dark mode helps with my eyes  
 
 ---
 
 ## 📬 Connect With Me  
-- [Facebook] (https://www.facebook.com/szansnowwhite) 
-- [Instagram] (https://www.instagram.com/szonstagram/) 
-- [Twitter] (https://x.com/mrszansnowwhite)
-  
+- [Facebook](https://www.facebook.com/szansnowwhite)  
+- [Instagram](https://www.instagram.com/szonstagram/)  
+- [Twitter](https://x.com/mrszansnowwhite)  
 
 ---
 
